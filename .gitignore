@@ -1,0 +1,4 @@
+# Project exclude paths
+/.angular/
+/node_modules/
+/.vscode/
